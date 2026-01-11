@@ -1,0 +1,31 @@
+---
+output: html_document
+---
+
+## Author:
+- Molin Yang (netID: moliny2)
+
+- moliny2@illinois.edu
+
+
+## Purpose:
+New York City attracts millions of tourists from all over the world every year.
+However, due to differing preferences and budget constraints, it can be challenging for travelers to choose an Airbnb from the large number of available listings.
+This app serves as a tool to help users identify where to focus their search when booking an Airbnb stay.
+Users can adjust their preferred room type, borough, and acceptable price range, after which a density plot of suitable Airbnb listings is displayed, along with a summary table shown on the right.
+Using this app, users can quickly gain insights into which areas of New York City best match their preferences and budget when searching for accommodations.
+
+
+## Data:
+This data is obtained from Kaggle, which includes 48,895 Airbnb listings in New York City in 2019.
+For each listing, information on the borough, price, room-type, longitude, and latitude is recorded clearly.
+
+
+## References:
+Gomonov, D. (2019). New York City Airbnb Open Data [Data set]. Kaggle. 
+
+https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
+
+
+
+
